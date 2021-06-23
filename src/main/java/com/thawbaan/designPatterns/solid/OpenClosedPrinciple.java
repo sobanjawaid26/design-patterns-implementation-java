@@ -3,10 +3,6 @@ package com.thawbaan.designPatterns.solid;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class OpenClosedPrinciple {
-
-}
-
 enum Color
 {
     RED, GREEN, BLUE
